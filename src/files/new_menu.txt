@@ -1,0 +1,9 @@
+Angel Hair Pasta Pancakes	Entrée	"Pan-seared Angel Hair pasta cakes, served with sauteed vegetables, crispy marniated tofu & lemon caper sauce"	14.30	No
+Bacon Wrapped Beef Medallion	Entrée	A tender cut of beef wrapped in bacon and served with bourbon glaze.	25.30	No
+Clam Chowder	Soup	It's chow-dah.	5.50	No
+Classic Caesar Salad	Salad	"Romaine lettuce, parmesan cheese and croutons tossed in Caesar dressing."	7.70	No
+Lobster Mac & Cheese	Entrée	A healthy portion of Maine lobster meat mixed with baby spinach in a creamy mac n cheese with a parmesan crumb topping	18.70	No
+Seafood Paella	Entrée	"Shrimp, mussels, clams, & chorizo sausage slow-roasted with Spanish herbs, saffron rice & baby peas"	24.20	No
+Teriyaki Sirloin Tips	Entrée	"Tender beef tips smothered with mushroom, onions, and green papers in a rich teryiyaki sauce"	22.00	No
+The Ted Danson Sandwich	Sandwich	"Turkey, sauerkraut, swiss cheese with Russian dressing served on rye bread"	11.00	No
+Tortellini with Mushroom & Cream Sauce	Entrée	Delicious pasta stuffed with cheese in a creamy mushroom sauce and laced with sherry.	19.80	No

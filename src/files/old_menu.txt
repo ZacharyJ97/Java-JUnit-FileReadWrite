@@ -1,0 +1,15 @@
+Angel Hair Pasta Pancakes	Entrée	"Pan-seared Angel Hair pasta cakes, served with sauteed vegetables, crispy marniated tofu & lemon caper sauce"	13	No
+Bacon Wrapped Beef Medallion	Entrée	A tender cut of beef wrapped in bacon and served with bourbon glaze.	23	No
+Chili Con Carnival	Entrée	Choice cuts of meat of mysterious origins fashioned into a hearty stew.  Best served family-style.	9	Yes
+Clam Chowder	Soup	It's chow-dah.	5	No
+Classic Caesar Salad	Salad	"Romaine lettuce, parmesan cheese and croutons tossed in Caesar dressing."	7	No
+Kolbassi & Cheese	Sandwich	"Sandwich piled high with Polish kielbasa, Swiss cheese, thick French fries and tart cole slaw on Italian bread"	6	Yes
+Lobster Mac & Cheese	Entrée	A healthy portion of Maine lobster meat mixed with baby spinach in a creamy mac n cheese with a parmesan crumb topping	17	No
+Milk Steak	Entrée	Boiled over hard with a side of jellybeans (raw)	16	Yes
+Pork & Sauerkraut	Entrée	Pennsylvania Dutch staple of roasted pork slow-cooked with frankfurters and sauerkraut.  Served with chow-chow and carrots.	9	Yes
+Rum Ham	Entrée	"A Jersey Shore tradition: a whole ham generously soaked in rum, topped with pineapples and cloves.  Allergy alert: dish attracts stray dogs"	15	Yes
+Seafood Paella	Entrée	"Shrimp, mussels, clams, & chorizo sausage slow-roasted with Spanish herbs, saffron rice & baby peas"	22	No
+Teriyaki Sirloin Tips	Entrée	"Tender beef tips smothered with mushroom, onions, and green papers in a rich teryiyaki sauce"	20	No
+The Larry David Sandwich	Sandwich	"White fish, sabel, capers, onions, and cream cheese served on white bread"	10	Yes
+The Ted Danson Sandwich	Sandwich	"Turkey, sauerkraut, swiss cheese with Russian dressing served on rye bread"	10	No
+Tortellini with Mushroom & Cream Sauce	Entrée	Delicious pasta stuffed with cheese in a creamy mushroom sauce and laced with sherry.	18	No
